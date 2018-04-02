@@ -3,7 +3,7 @@ This repository contains my work from  Master Algorithmic Programming Techniques
 ## Week 1
 ### Solving a Simple Code Problem
 Prgramming Assignment: [A plus B](https://github.com/7saheelahmed/Algorithms-/blob/master/Week1/AplusB.cpp)
-###Solving a More Challenging Code Problem
+### Solving a More Challenging Code Problem
 Programming Assignments: [Maximum Pairwise Product](https://github.com/7saheelahmed/Algorithms-/blob/master/Week1/MaxProduct1.cpp)
 
 ## Week 2
